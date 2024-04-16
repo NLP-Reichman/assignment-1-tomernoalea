@@ -1,0 +1,32 @@
+{
+  "test_preprocess": {
+    "vocab_length": 1804
+  },
+  "test_lm": {
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
+  },
+  "test_eval": {
+    "en_en": 28.09824985107546,
+    "en_fr": 57.85739259793922,
+    "en_tl": 73.43974826382546,
+    "en_nl": 65.10850668559823
+  },
+  "test_match": {
+    "en_en_3": 28.09824985107546,
+    "en_tl_3": 73.43974826382546,
+    "en_nl_3": 65.10850668559823
+  },
+  "test_generate": {
+    "english_1_gram": "Ia  eiIhN e mCro/e\ud83d\ude07.E",
+    "english_2_gram": "I amedgh whiuLthornas\u05ea",
+    "english_3_gram": "I amichad, ick @_TONIGO ",
+    "english_4_gram": "I Love diersed befor ashei",
+    "spanish_2_gram": "SoyElttpla y c\", lldonc",
+    "spanish_3_gram": "Soyer\ud83d\ude1b https://t.co/t.c",
+    "french_2_gram": "Je suis qu den qule therr c",
+    "french_3_gram": "Je suis htte @a\u2026 #us au ble"
+  }
+}
